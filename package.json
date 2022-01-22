@@ -22,7 +22,7 @@
     "cors": "^2.8.5",
     "dotenv": "^7.0.0",
     "express": "^4.16.4",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "shopify-buy": "^2.7.0"
   }
 }
